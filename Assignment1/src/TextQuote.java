@@ -1,3 +1,7 @@
+/*
+Name: Alex Franke
+Q: 4
+ */
 public class TextQuote {
     public static void main(String[] args) {
         System.out.println("Hearing in the distance\n\n");

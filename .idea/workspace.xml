@@ -5,18 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0abfdf79-6b7d-454d-b883-669fff0bd63f" name="Changes" comment="Assignment 1">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment1/Assignment1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment1/src/Diamond.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment1/src/Franke.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment1/src/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment1/src/TextQuote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment1/src/q2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment1/src/q3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/src/Diamond.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/src/Diamond.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/src/Franke.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/src/Franke.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/src/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/src/TextQuote.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/src/TextQuote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/src/q2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/src/q2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/src/q3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/src/q3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,12 +29,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Frankeinator"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Frankeinator&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -50,9 +46,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2b0PeEkuT9ZU6U5rkAn6fQb6c25" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -61,22 +57,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Diamond.executor": "Run",
-    "Application.Franke.executor": "Run",
-    "Application.HelloWorld.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.TextQuote.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "jdk.selected.JAVA_MODULE": "openjdk-21",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Diamond.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Franke.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TextQuote.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Alex\Desktop\JavaAssignments\Assignment1\src" />
@@ -123,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705349383580</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Assignment 1">
+      <option name="closed" value="true" />
+      <created>1705351781601</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705351781601</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
