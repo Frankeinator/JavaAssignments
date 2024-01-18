@@ -3,7 +3,7 @@ Name: Alex Franke
 Q: 6
 the optional args[0] takes an integer and outputs a diamond of that size
  */
-
+//Alex Franke
 public class Diamond {
     public static void main(String[] args)
     {
