@@ -1,5 +1,6 @@
 <h1>FOLLOW MY JOURNEY TO BECOME A SUCCESSFUL BUT TRASHY JAVA PROGRAMMER:)</h1>
 <hr>
+<p>Hot take: <br>This is like C# but worse, amirite?</p>
 <hr>
 <hr>
 <hr>
