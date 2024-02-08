@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0abfdf79-6b7d-454d-b883-669fff0bd63f" name="Changes" comment="🫦Assignment 2🫦">
+    <list default="true" id="0abfdf79-6b7d-454d-b883-669fff0bd63f" name="Changes" comment="🫦Assignment 3🫦">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment3/src/BarChart.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3/src/BarChart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment3/src/IfElseIfStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3/src/IfElseIfStatements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment3/src/IfStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3/src/IfStatements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment3/src/NestedIfStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3/src/NestedIfStatements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assignment3/src/NumberManagementSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3/src/NumberManagementSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment3/src/PatternTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3/src/PatternTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment3/src/RandomNumberGuessingGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3/src/RandomNumberGuessingGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment3/src/RomanNumerals.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3/src/RomanNumerals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment3/src/SeiesNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3/src/SeiesNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment3/src/SwitchStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3/src/SwitchStatement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +68,7 @@
     "Application.NameAgeAnnualIncome.executor": "Run",
     "Application.NameAndInitials.executor": "Run",
     "Application.NestedIfStatements.executor": "Run",
+    "Application.NumberManagementSystem.executor": "Run",
     "Application.PatternTriangle.executor": "Run",
     "Application.RandomNumberGuessingGame.executor": "Run",
     "Application.RandomStuff.executor": "Run",
@@ -193,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707421292893</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="🫦Assignment 3🫦">
+      <option name="closed" value="true" />
+      <created>1707421475495</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1707421475495</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -201,6 +201,7 @@
     <MESSAGE value="Assignment 1" />
     <MESSAGE value="" />
     <MESSAGE value="Assignment 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignment 2" />
+    <MESSAGE value="Assignment 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment 3" />
   </component>
 </project>
