@@ -5,8 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0abfdf79-6b7d-454d-b883-669fff0bd63f" name="Changes" comment="🫦🫦">
+      <change afterPath="$PROJECT_DIR$/Assignment3/Assignment3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/src/BarChart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/src/IfElseIfStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/src/IfStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/src/NestedIfStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/src/NumberManagementSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/src/PatternTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/src/RandomNumberGuessingGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/src/RomanNumerals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/src/SeiesNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/src/SwitchStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_2/Assignment_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment2/Assignment_2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_2/src/CookieCalories.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment2/src/CookieCalories.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_2/src/MaleAndFemalePercentages.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment2/src/MaleAndFemalePercentages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_2/src/NameAndInitials.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment2/src/NameAndInitials.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_2/src/SalesPrediction.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment2/src/SalesPrediction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_2/src/WordGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment2/src/WordGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inClass/src/RandomStuff.java" beforeDir="false" afterPath="$PROJECT_DIR$/inClass/src/RandomStuff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inClassAssignments/src/StudentGPA.java" beforeDir="false" afterPath="$PROJECT_DIR$/inClassAssignments/src/StudentGPA.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,19 +74,28 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Adjusted.executor": "Run",
+    "Application.BarChart.executor": "Run",
     "Application.CookieCalories.executor": "Run",
     "Application.Diamond.executor": "Run",
     "Application.Franke.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.ICA1.executor": "Run",
+    "Application.IfStatements.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MaleAndFemalePercentages.executor": "Run",
     "Application.Multiplication.executor": "Run",
     "Application.NameAgeAnnualIncome.executor": "Run",
     "Application.NameAndInitials.executor": "Run",
+    "Application.NestedIfStatements.executor": "Run",
+    "Application.PatternTriangle.executor": "Run",
+    "Application.RandomNumberGuessingGame.executor": "Run",
     "Application.RandomStuff.executor": "Run",
+    "Application.RomanNumerals.executor": "Run",
+    "Application.RunningTheRace.executor": "Run",
     "Application.SalesPrediction.executor": "Run",
+    "Application.SeiesNumbers.executor": "Run",
     "Application.StudentGPA.executor": "Run",
+    "Application.SwitchStatement.executor": "Run",
     "Application.TextQuote.executor": "Run",
     "Application.WordGame.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -77,11 +105,12 @@
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-21",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/frank/OneDrive/Desktop/JavaAssignments/inClassAssignments/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/frank/OneDrive/Desktop/JavaAssignments/Assignment3/src/Main.java"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\frank\OneDrive\Desktop\JavaAssignments\inClassAssignments" />
       <recent name="C:\Users\Alex\Desktop\JavaAssignments\Assignment1\src" />
       <recent name="C:\Users\Alex\Desktop\JavaAssignments\src" />
     </key>
@@ -158,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706816167718</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="🫦🫦">
+      <option name="closed" value="true" />
+      <created>1706816260335</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706816260335</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

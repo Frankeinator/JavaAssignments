@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class StudentGPA {
     public static void main(String[] args) throws FileNotFoundException {
-        PrintWriter outputFile = new PrintWriter("students.txt");
+        PrintWriter outputFile = new PrintWriter("./students.txt");
         Scanner reader = new Scanner(System.in);
         while (true)
         {
@@ -14,7 +14,7 @@ public class StudentGPA {
             if (id == -1)
                 break;
             System.out.print("Student GPA: ");
-            int gpa = reader.nextInt(); reader.nextLine();
+            float gpa = reader.nextFloat(); reader.nextLine();
 
             outputFile.print(id);
             outputFile.print(" ");
