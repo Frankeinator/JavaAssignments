@@ -28,5 +28,5 @@ public class SwitchStatement {
             }
 
             System.out.println("You earned " + points + " points.");
-       }
+        }
 }

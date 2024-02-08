@@ -14,7 +14,7 @@ public class RandomNumberGuessingGame {
         do {
             guess = reader.nextInt();
 
-            if (guess < r)
+            if (guess < r)//
                 System.out.print("Too low... guess again: ");
             else if (guess > r)
                 System.out.print("Too high... guess again: ");

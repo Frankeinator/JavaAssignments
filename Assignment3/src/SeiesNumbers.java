@@ -8,4 +8,4 @@ public class SeiesNumbers {
         }
         System.out.println("Sum: " + sum);
     }
-}
+}//

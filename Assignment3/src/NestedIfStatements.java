@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class NestedIfStatements {
+public class NestedIfStatements {//
     public static void main(String[] args)
     {
         Scanner reader = new Scanner(System.in);
