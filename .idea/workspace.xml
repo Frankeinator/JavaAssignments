@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0abfdf79-6b7d-454d-b883-669fff0bd63f" name="Changes" comment="🫦Assignment 3🫦">
+      <change afterPath="$PROJECT_DIR$/inClass/src/FrankeRect/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inClass/src/FrankeRect/RectangleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inClassAssignments/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inClassAssignments/src/CarDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment3/src/NumberManagementSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3/src/NumberManagementSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inClass/src/Rectangle.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +40,11 @@
         <option name="url" value="https://github.com/Frankeinator/JavaAssignments.git" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.sql/java/sql/Array.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.sql/java/sql/BatchUpdateException.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.sql/java/sql/Date.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -72,6 +81,7 @@
     "Application.PatternTriangle.executor": "Run",
     "Application.RandomNumberGuessingGame.executor": "Run",
     "Application.RandomStuff.executor": "Run",
+    "Application.RectangleDemo.executor": "Run",
     "Application.RomanNumerals.executor": "Run",
     "Application.RunningTheRace.executor": "Run",
     "Application.SalesPrediction.executor": "Run",
@@ -193,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707421475495</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="🫦Assignment 3🫦">
+      <option name="closed" value="true" />
+      <created>1707430210998</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1707430210998</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -201,6 +219,7 @@
     <MESSAGE value="Assignment 1" />
     <MESSAGE value="" />
     <MESSAGE value="Assignment 2" />
+    <MESSAGE value="Assignment 3" />
     <MESSAGE value="Assignment 3" />
     <option name="LAST_COMMIT_MESSAGE" value="Assignment 3" />
   </component>

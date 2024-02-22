@@ -1,9 +1,14 @@
+package FrankeRect;
+
 public class Rectangle {
     private int length;
     private int width;
 
+
     public Rectangle(int l, int w) {length = l; width = w;}
 
+    //Default
+    public Rectangle() {};
     public void setLength(int x) {length = x;}
     public void setWidth(int x) {width = x;}
 
@@ -12,6 +17,6 @@ public class Rectangle {
 
     public int area()
     {
-        return length * width;
+        return this.length * this.width;
     }
 }
