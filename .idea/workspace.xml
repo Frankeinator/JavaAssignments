@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0abfdf79-6b7d-454d-b883-669fff0bd63f" name="Changes" comment="stuff idk">
-      <change afterPath="$PROJECT_DIR$/inClassAssignments/src/personSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment_5/Assignment_5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment_5/src/ArrayOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment_5/src/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment_5/src/Month.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment_5/src/Payroll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment_5/src/PayrollDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment_5/src/StringOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment_5/src/StringOperationsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment_5/src/VerifyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment_5/src/VerifyClassDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +72,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Adjusted.executor": "Run",
     "Application.ArrayComparing.executor": "Run",
+    "Application.ArrayOperations.executor": "Run",
     "Application.BarChart.executor": "Run",
     "Application.CarDemo.executor": "Run",
     "Application.CelsiusTemperatureTable.executor": "Run",
@@ -84,6 +95,7 @@
     "Application.NestedIfStatements.executor": "Run",
     "Application.NumberManagementSystem.executor": "Run",
     "Application.PatternTriangle.executor": "Run",
+    "Application.PayrollDemo.executor": "Run",
     "Application.RandomNumberGuessingGame.executor": "Run",
     "Application.RandomStuff.executor": "Run",
     "Application.RectangleArea.executor": "Run",
@@ -93,9 +105,11 @@
     "Application.SalesPrediction.executor": "Run",
     "Application.SeiesNumbers.executor": "Run",
     "Application.ShowCharMethod.executor": "Run",
+    "Application.StringOperationsDemo.executor": "Run",
     "Application.StudentGPA.executor": "Run",
     "Application.SwitchStatement.executor": "Run",
     "Application.TextQuote.executor": "Run",
+    "Application.VerifyClassDemo.executor": "Run",
     "Application.WordGame.executor": "Run",
     "Application.addArray.executor": "Run",
     "Application.personSearch.executor": "Run",
@@ -107,7 +121,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-21",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/frank/OneDrive/Desktop/JavaAssignments/Assignment4/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/frank/OneDrive/Desktop/JavaAssignments/Assignment_5/src/Main.java",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -246,7 +260,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709667025333</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="stuff idk">
+      <option name="closed" value="true" />
+      <created>1711042768815</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1711042768815</updated>
+    </task>
+    <task id="LOCAL-00016" summary="stuff idk">
+      <option name="closed" value="true" />
+      <created>1711042791612</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1711042791612</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
